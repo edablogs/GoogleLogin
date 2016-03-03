@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "alpine-comfort-123912",
+    "project_number": "556314670869",
+    "name": "Google signin new"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556314670869:android:ca156bd58131353a",
+        "client_id": "android:com.edablogs.googlelogin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.edablogs.googlelogin",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556314670869-6fe3c1hpffb20p459c2e86bapmeg7a5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edablogs.googlelogin",
+            "certificate_hash": "C8A2CBFC93C7BA8239CAB56A8C900C56DC7E7E92"
+          }
+        },
+        {
+          "client_id": "556314670869-k7lfkspt92hdkc5igjp9476an5entmn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
